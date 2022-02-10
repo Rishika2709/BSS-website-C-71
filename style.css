@@ -143,5 +143,8 @@ color: #ff7700;
 {
   margin-bottom: 10px;
 }
+.my_nav_bar {
+    position: sticky;
+}
 
 
